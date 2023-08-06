@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/bigaicoin/bigaicoin.github.io/sitemap.xml
